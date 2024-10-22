@@ -1,3 +1,5 @@
 Hi all,
 today ia m larning git
 
+now i am taking this data from remote repo to local repo
+
